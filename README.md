@@ -12,5 +12,10 @@
   <img align="center" alt="Eron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eron-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<div>
+    <a href="https://github.com/SrEron">
+    <img height= "180em" src="https://github-redme-starts-vertel.app/api?username=SrEron&show_icons=true&theme=dracula&include_all_comits=true&cout_private=true"/>
+    <img height= "180em" src="https://github-redme-starts-vertel.app/api/top=langs/?username=SrEron&layout=compact&langs_cout=16&theme_dracula"/>
+</div>
 
 
