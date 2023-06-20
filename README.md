@@ -1,9 +1,8 @@
-### Olá, Me chamo Eron Arthur e estou me desenvolvendo como programador e desenvolvedor full stack
+ Olá, Me chamo Eron Arthur 
+   Estou cursando na universidade PUC Minas a materia de Engenharia de Computação, me desenvolvendo cada vez mais para me torna um Engenherio computacional e também um desenvolvedor FullStcak
+   Compartilho aqui meus trabalhos e desenvolvimentos de softwares, jogos e também hardwares.
 
-- 🔭 Estou trabalhando voluntariamente em Desenvolvimento Wec
-- 🌱 Estou estudando e aprendendo C/C++, Java, HTML e CSS.
-- 📫 Pode me contatar pelo e-mail: er0narthur23@gmail.com
-- 😄 Pronouns: Ele/ Dele
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Eron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eron-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
