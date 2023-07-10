@@ -1,5 +1,13 @@
- Olá, Me chamo Eron Arthur, estou cursando na universidade PUC Minas a materia de Engenharia de Computação com o foco de me desenvolver cada vez mais para me torna um Engenherio computacional e também um desenvolvedor FullStcak.
- Compartilho aqui meus trabalhos e desenvolvimentos de softwares, jogos e também hardwares.
+ Olá, me chamo Eron Arthur.
+ Estou cursando a disciplina Engenharia da computação maPUC Minas.
+ Tendo como foco me desenvolver cada vez mais para me torna um Engenherio computacional e também um desenvolvedor FullStcak ou Backend.
+ Estou trazendo neste perfil, todos os meus trabalhos durante minha jornada como desenvolvedor e programador como:
+ - Desenvolvimento de Software
+ - Desenvolvimento de Hardwares
+ - Atividades de apredizado nas linguagens que estou estudando.
+ - Desenvolvimento de jogos
+ - Projetos pessoais.
+
 
 
 <div style="display: inline_block"><br>
