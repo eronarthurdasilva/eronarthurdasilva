@@ -1,5 +1,6 @@
  
-### Olá, me chamo Eron Arthur 👋.
+### Bem Vindo ao meu Portfolio 
+## Me chamo Eron Arthur 👋.
 Atualmente, estou cursando Engenharia de Computação e trago consigo uma sólida experiência em automação e mecatrônica, com a obtenção de uma licenciatura técnica pelo SESI SENAI MG.
 
 Neste repositório, compartilharei uma variedade de projetos pessoais, profissionais e acadêmicos que desenvolvi e continuo desenvolvendo durante minha jornada para me tornar um engenheiro de computação. Aqui você encontrará projetos que abrangem as áreas de Back-End, Front-End e Full-Stack, incluindo desenvolvimento web, sistemas embarcados, aplicativos móveis e muitas outras experiências e estudos que estou explorando.
