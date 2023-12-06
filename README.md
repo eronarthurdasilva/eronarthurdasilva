@@ -1,4 +1,3 @@
- 
 ## Bem vindo ao meu Portfolio 
 Olá, eu sou Eron Arthur, atualmente cursando Engenharia de Computação e trazendo uma sólida experiência em automação e mecatrônica, com a conquista de uma licenciatura técnica pelo SESI SENAI MG.
 
