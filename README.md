@@ -1,13 +1,12 @@
  
 ## Bem vindo ao meu Portfolio 
-### Me chamo Eron Arthur 👋.
-Atualmente, estou cursando Engenharia de Computação e trago consigo uma sólida experiência em automação e mecatrônica, com a obtenção de uma licenciatura técnica pelo SESI SENAI MG.
+Olá, eu sou Eron Arthur, atualmente cursando Engenharia de Computação e trazendo uma sólida experiência em automação e mecatrônica, com a conquista de uma licenciatura técnica pelo SESI SENAI MG.
 
-Neste repositório, compartilharei uma variedade de projetos pessoais, profissionais e acadêmicos que desenvolvi e continuo desenvolvendo durante minha jornada para me tornar um engenheiro de computação. Aqui você encontrará projetos que abrangem as áreas de Back-End, Front-End e Full-Stack, incluindo desenvolvimento web, sistemas embarcados, aplicativos móveis e muitas outras experiências e estudos que estou explorando.
+Neste repositório, compartilho uma diversidade de projetos pessoais, profissionais e acadêmicos que desenvolvi e continuo aprimorando ao longo da minha jornada para me tornar um engenheiro de computação. Aqui, você encontrará projetos abrangendo as áreas de Back-End, Front-End e Full-Stack, incluindo desenvolvimento web, sistemas embarcados, aplicativos móveis, e diversas outras experiências e estudos que estou explorando.
 
-Além disso, este espaço servirá como um registro dos meus estudos em várias linguagens de programação, como C/C++, Java, C#, e outras, juntamente com suas respectivas tecnologias. Isso incluirá atividades propostas na faculdade e cursos adicionais que estou realizando.
+Este espaço também funciona como um registro dos meus estudos em várias linguagens de programação, como C/C++, Java, C#, e outras, juntamente com suas respectivas tecnologias. Isso inclui atividades propostas na faculdade e cursos adicionais que estou realizando.
 
-Sinta-se à vontade para explorar meus projetos e estudos enquanto acompanha meu crescimento como engenheiro de computação. Obrigado por visitar meu perfil!
+Explore à vontade meus projetos e estudos enquanto acompanha meu crescimento como engenheiro de computação. Agradeço por visitar meu perfil e ficarei feliz em receber qualquer feedback ou sugestão para aprimorar ainda mais meu trabalho!
 
 ### Contatos & Perfis 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eron-arthur-80644a187/)
