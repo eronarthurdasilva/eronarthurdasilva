@@ -1,5 +1,5 @@
 # Ola 
-### Me chamo Eron Arthur, sou um Dev em desenvolvimento. Estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartartilhar meu estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação.
+### Me chamo Eron Arthur, sou um Dev em desenvolvimento. Estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartilhar meus estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação.
 
 
 
