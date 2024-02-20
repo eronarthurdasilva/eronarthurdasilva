@@ -1,14 +1,14 @@
 # Ola 
-### Me chamo Eron Arthur, sou um Dev em desenvolvimento. Estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartilhar meus estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação.
+### Me chamo Eron Arthur, sou um Dev em desenvolvimento com o foco em full stack e um pouco como back-end. Estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartilhar meus estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação.
 
 
 
 ## Informação Adicionais 
-- Tenho dois cursos Técnicos em áreas da tecnologia, sendo elas Automação industrial e Mecatrônica
-- Amo jogos e Desenvolver projetos
-- Atualmente estou focado em me expecializar em Backend com o uso de C++
-- Estou estudando outras linguagens como o Java
-- Atualmente também estou focado em Desenvolvimento web Full Stack
+- Tenho dois cursos Técnicos em áreas da tecnologia, sendo elas Automação industrial e Mecatrônica;
+- Amo jogos e Desenvolver projetos;
+- Atualmente estou focado em me expecializar em com desenvolvimento de software e também com um estudo em desenvolvimento web;
+- Estou estudando algumas linguagens como um projeto de autoconhecimento,como java, c++ e javascript;
+
 
 <section>
    <br/>
@@ -35,5 +35,6 @@
 
 ### Perfis 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eron-arthur-80644a187/)
+[![Twitter](
 
 
