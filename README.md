@@ -34,7 +34,7 @@
 
 ## Cursos que estou fazendo atualmente 
 - Desenvolvimento web full stack
-- Desenvolvimento back-end android 
+- Desenvolvimento back-end Java
 
 ### Perfis 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eron-arthur-80644a187/)
