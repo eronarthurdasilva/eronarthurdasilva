@@ -12,11 +12,11 @@
 <section>
    <br/>
    <div align="center">
-      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=SrEron&show_icons=true&theme=tokyonight"/>
+      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=Eronarthurdasilva&show_icons=true&theme=tokyonight"/>
    </div>
    <br/>
    <div align="center">
-      <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrEron&layout=compact&theme=tokyonight"/>
+      <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eronarthurdasilva&layout=compact&theme=tokyonight"/>
    </div>
    <br/>
 </section>
