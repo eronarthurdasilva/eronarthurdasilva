@@ -1,12 +1,12 @@
 # Ola
-### Me chamo Eron Arthur, sou um Dev em desenvolvimento com o foco em full stack e um pouco como back-end. Estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartilhar meus estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação.
+### Me chamo Eron Arthur, estou cursando Engenharia da Computação na instituição PUC MINAS. E aqui vou compartilhar meus estudos e projetos feitos durante meus dias na faculdade e no ramo profissional da programação e desenvolvimento.
 
 
 
 ## Informação Adicionais 
 - Tenho dois cursos Técnicos em áreas da tecnologia, sendo elas Automação industrial e Mecatrônica;
-- Amo jogos e Desenvolver projetos;
-- Estou estudando algumas linguagens como um projeto de autoconhecimento,como java, c++ e javascript;
+- Jogo e leio em tempos vagos;
+- Estou estudando algumas linguagens como um projeto de autoconhecimento,como java, c++ e php;
 
 
 <section>
@@ -28,6 +28,7 @@
       <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img style="height: 40px" alt="JavaScript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img style="height: 40px" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    </div>
 </section>
