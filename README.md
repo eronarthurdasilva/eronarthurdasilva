@@ -5,6 +5,7 @@
 ---
 
 ### 🧑💻 About Me
+
 - 🎓 **Computer Engineering student** at PUC Minas (5/10)
 - 💡 Passionate about **problem solving**, **automation** and building **scalable solutions**
 - 🌱 Currently delving into **Java ecosystem**, **cloud-native development** and **systems design**
@@ -16,6 +17,7 @@
 ### 🛠️ Tech Arsenal
 
 #### **Core Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,11 +26,13 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### **Web & Mobile**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### **DevOps & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,10 +62,12 @@
    - Java Backend Mastery (Spring Boot, Hibernate)
    - AWS Cloud Practitioner Certification
    - Advanced Mobile Development (Flutter)
-
+   - Machine learning (python) - AI
+   
 ---
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
+
 - Master Spring Framework fundamentals
 - Publish 3+ production-ready apps
 - Contribute to open source projects
